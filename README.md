@@ -1,2 +1,2 @@
 # Twitter-Hashtag-Scraping
-Job Analysis
+Job Analysis based on certain Hashtags
